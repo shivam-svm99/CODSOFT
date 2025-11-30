@@ -1,2 +1,2 @@
 # CODSOFT
-My git repository for the internship.
+My git repository for my first internship.
